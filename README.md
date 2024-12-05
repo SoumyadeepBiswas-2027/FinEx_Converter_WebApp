@@ -48,7 +48,14 @@ If you're running the project locally, you may need to use your API key. To get 
 
                                                          *********important to note the words below***************
 it is not necessary that the given api in my code will work ,because most of the times the used api's which are valid today may be Restricted from domain tomorrow ,so if my api dosen't work and , you choose a api  other than mine then you may have to change some syntax  at the end and other than that  there shouldn't be any problem!!
+                                
+                                                                    
                                                                     ----------------x--------------
+                                                                    
+
+
+                                                                    
+                                                                    
 Contributing
 We welcome contributions! If you want to improve this project, feel free to fork the repository and submit a pull request.
 
