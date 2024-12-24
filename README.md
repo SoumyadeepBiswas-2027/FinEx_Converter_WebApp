@@ -70,8 +70,6 @@ Acknowledgements
 The exchange rates are powered by ExchangeRate-API.
 Thanks to the open-source community for the FontAwesome icons and the flag images.
 
-~This README is designed to be clear, concise, and ATS-friendly by focusing on essential project details, installation, usage, and contribution guidelines.
-
 
 
 
